@@ -1,0 +1,23 @@
+.navbar{
+  background-color: #618685;
+  border: 5px solid black;
+  text-align: center;
+}
+.brand {
+
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+
+}
+.cuerpo{
+  background-image: url("https://static.tumblr.com/bfd42c6e12c4a48a0630ca3b0fcd1d15/vt0qhql/KSbnz4jg0/tumblr_static_tumblr_static_filename_640.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.centro{
+  background: white;
+  border: 5px solid black;
+}
